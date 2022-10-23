@@ -1,0 +1,51 @@
+body{
+    background-attachment: fixed;
+    background-image: url(../img/Background.jpeg);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.main_container{
+    margin: 0 20% 0 20%;
+    padding: 0 1% 0 1%;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+}
+.menu{
+    text-align: center;
+}
+.foto_main_middle{
+    width: 350px;
+    height: 350px;
+    margin-right: 2%;
+    border-radius: 5%;
+}
+.hello{
+    margin-top: 6%;
+}
+.footer_main{
+    padding: 5%;
+}
+.About_me{
+    margin: auto;
+}
+.Chat_me{
+    margin: auto;
+}
+.Law_footer{
+    margin-top: 10%;
+    font-size: 12px;
+}
+.foto_About{
+    margin-left: 3%;
+}
+.exam_foto{
+    width: 100%;
+    border-radius: 10%;
+}
+.btn_exam{
+    margin-top: 3%;
+    text-align: center;
+}
